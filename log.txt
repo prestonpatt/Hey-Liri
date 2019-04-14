@@ -1,32 +1,220 @@
 
- Venue name: SunFest 2019 
- Venue location: West Palm Beach, FL 
- Event date: 05/02/2019
- Venue name: BottleRock 
- Venue location: Napa, FL 
- Event date: 05/24/2019
- Venue name: SunFest 2019 
- Venue location: West Palm Beach, FL 
- Event date: 05/02/2019
-------------------------------------------------------------
 
+                            Venue name: SunFest 2019
 
- Venue name: BottleRock 
- Venue location: Napa, FL 
- Event date: 05/24/2019
-------------------------------------------------------------
+                            Venue location: West Palm Beach, FL
 
-
- Venue name: SunFest 2019 
- Venue location: West Palm Beach, FL 
- Event date: 05/02/2019
+                            Event date: 05/02/2019
 
 ------------------------------------------------------------
 
 
- Venue name: BottleRock 
- Venue location: Napa, FL 
- Event date: 05/24/2019
+
+                            Venue name: BottleRock
+
+                            Venue location: Napa, FL
+
+                            Event date: 05/24/2019
+
+------------------------------------------------------------
+
+
+
+                            Band name: One Republic
+
+                            Venue name: SunFest 2019
+
+                            Venue location: West Palm Beach, FL
+
+                            Event date: 05/02/2019
+
+------------------------------------------------------------
+
+
+
+                            Band name: One Republic
+
+                            Venue name: BottleRock
+
+                            Venue location: Napa, FL
+
+                            Event date: 05/24/2019
+
+------------------------------------------------------------
+
+
+
+                Title: Overlord
+
+                Released: 2018
+
+                IMDB Rating: 7.1
+
+                Rotten Tomatos Rating: 81%
+
+                Country: USA, Canada
+
+                Language: English, Russian, French, German
+
+                Plot: A small group of American soldiers find horror behind enemy lines on the eve of D-Day.
+
+                Actors: Jovan Adepo, Wyatt Russell, Mathilde Ollivier, Pilou Asbæk
+
+------------------------------------------------------------
+
+
+
+                            Band name: One Republic
+
+                            Venue name: SunFest 2019
+
+                            Venue location: West Palm Beach, FL
+
+                            Event date: 05/02/2019
+
+------------------------------------------------------------
+
+
+
+                            Band name: One Republic
+
+                            Venue name: BottleRock
+
+                            Venue location: Napa, FL
+
+                            Event date: 05/24/2019
+
+------------------------------------------------------------
+
+
+
+            Artist: OneRepublic
+
+            Song Title: Apologize
+
+            Preview: null
+
+            Album: Dreaming Out Loud
+
+------------------------------------------------------------
+
+
+
+            Artist: Britney Spears
+
+            Song Title: Oops!...I Did It Again
+
+            Preview: https://p.scdn.co/mp3-preview/7fb86827422540ad01f65870375fef055412f034?cid=f4b854ca658e461fbe29bbdbad98c852
+
+            Album: Oops!... I Did It Again
+
+------------------------------------------------------------
+
+
+
+                Title: Harry Potter and the Order of the Phoenix
+
+                Released: 2007
+
+                IMDB Rating: 7.5
+
+                Rotten Tomatos Rating: 77%
+
+                Country: UK, USA
+
+                Language: English
+
+                Plot: With their warning about Lord Voldemort's return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.
+
+                Actors: Daniel Radcliffe, Harry Melling, Jason Boyd, Richard Macklin
+
+------------------------------------------------------------
+
+
+
+            Artist: Fall Out Boy
+
+            Song Title: My Songs Know What You Did In The Dark (Light Em Up)
+
+            Preview: null
+
+            Album: Save Rock And Roll
+
+------------------------------------------------------------
+
+
+
+            Artist: Bleachers
+
+            Song Title: I Miss Those Days
+
+            Preview: https://p.scdn.co/mp3-preview/0ef8498549a280f5870654a84ea0909e949bd47a?cid=f4b854ca658e461fbe29bbdbad98c852
+
+            Album: Gone Now
+
+------------------------------------------------------------
+
+
+
+                            Band name: bleachers
+
+                            Venue name: The New Orleans Jazz & Heritage Festival
+
+                            Venue location: New Orleans, LA
+
+                            Event date: 04/28/2019
+
+------------------------------------------------------------
+
+
+
+                            Band name: bleachers
+
+                            Venue name: Charlotte Shout Fest - Romare Bearden Park
+
+                            Venue location: Charlotte, LA
+
+                            Event date: 05/11/2019
+
+------------------------------------------------------------
+
+
+
+                Title: Batman Begins
+
+                Released: 2005
+
+                IMDB Rating: 8.2
+
+                Rotten Tomatos Rating: 84%
+
+                Country: USA, UK
+
+                Language: English, Urdu, Mandarin
+
+                Plot: After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.
+
+                Actors: Christian Bale, Michael Caine, Liam Neeson, Katie Holmes
+
+------------------------------------------------------------
+
+
+
+                Title: Mr. Nobody
+
+                Released: 2009
+
+                IMDB Rating: 7.8
+
+                Rotten Tomatos Rating: 67%
+
+                Country: Belgium, Germany, Canada, France, USA, UK
+
+                Language: English, Mohawk
+
+                Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+                Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 
 ------------------------------------------------------------
 
@@ -44,6 +232,7 @@
 
 
 
+        divider
             Artist: Ace of Base
 
             Song Title: The Sign
@@ -51,6 +240,692 @@
             Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f4b854ca658e461fbe29bbdbad98c852
 
             Album: The Sign (US Album) [Remastered]
+
+            divider 
+
+------------------------------------------------------------
+
+
+
+        
+
+------------------------------------------------------------
+
+
+            Artist: Ace of Base
+
+            Song Title: The Sign
+
+            Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f4b854ca658e461fbe29bbdbad98c852
+
+            Album: The Sign (US Album) [Remastered]
+
+            
+
+------------------------------------------------------------
+
+ 
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+            Artist: Ace of Base
+
+            Song Title: The Sign
+
+            Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f4b854ca658e461fbe29bbdbad98c852
+
+            Album: The Sign (US Album) [Remastered]
+
+            
+
+------------------------------------------------------------
+
+ 
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+            Artist: Ace of Base
+
+            Song Title: The Sign
+
+            Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f4b854ca658e461fbe29bbdbad98c852
+
+            Album: The Sign (US Album) [Remastered]
+            
+
+------------------------------------------------------------
+
+ 
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                            Band name: bleachers
+
+                            Venue name: The New Orleans Jazz & Heritage Festival
+
+                            Venue location: New Orleans, LA
+
+                            Event date: 04/28/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                            Band name: bleachers
+
+                            Venue name: Charlotte Shout Fest - Romare Bearden Park
+
+                            Venue location: Charlotte, LA
+
+                            Event date: 05/11/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                Title: Mr. Nobody
+
+                Released: 2009
+
+                IMDB Rating: 7.8
+
+                Rotten Tomatos Rating: 67%
+
+                Country: Belgium, Germany, Canada, France, USA, UK
+
+                Language: English, Mohawk
+
+                Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+                Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+                
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                            Band name: bleachers
+
+                            Venue name: The New Orleans Jazz & Heritage Festival
+
+                            Venue location: New Orleans, LA
+
+                            Event date: 04/28/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                            Band name: bleachers
+
+                            Venue name: Charlotte Shout Fest - Romare Bearden Park
+
+                            Venue location: Charlotte, LA
+
+                            Event date: 05/11/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                            Band name: bleachers
+
+                            Venue name: The New Orleans Jazz & Heritage Festival
+
+                            Venue location: New Orleans, LA
+
+                            Event date: 04/28/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                            Band name: bleachers
+
+                            Venue name: Charlotte Shout Fest - Romare Bearden Park
+
+                            Venue location: Charlotte, LA
+
+                            Event date: 05/11/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                            Band name: bleachers
+
+                            Venue name: The New Orleans Jazz & Heritage Festival
+
+                            Venue location: New Orleans, LA
+
+                            Event date: 04/28/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                            Band name: bleachers
+
+                            Venue name: Charlotte Shout Fest - Romare Bearden Park
+
+                            Venue location: Charlotte, LA
+
+                            Event date: 05/11/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                Title: Harry Potter and the Deathly Hallows: Part 2
+
+                Released: 2011
+
+                IMDB Rating: 8.1
+
+                Rotten Tomatos Rating: 96%
+
+                Country: USA, UK
+
+                Language: English
+
+                Plot: Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+
+                Actors: Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe
+                
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                            Band name: bleachers
+
+                            Venue name: The New Orleans Jazz & Heritage Festival
+
+                            Venue location: New Orleans, LA
+
+                            Event date: 04/28/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                            Band name: bleachers
+
+                            Venue name: Charlotte Shout Fest - Romare Bearden Park
+
+                            Venue location: Charlotte, LA
+
+                            Event date: 05/11/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                            Band name: bleachers
+
+                            Venue name: The New Orleans Jazz & Heritage Festival
+
+                            Venue location: New Orleans, LA
+
+                            Event date: 04/28/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                            Band name: bleachers
+
+                            Venue name: Charlotte Shout Fest - Romare Bearden Park
+
+                            Venue location: Charlotte, LA
+
+                            Event date: 05/11/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                        Band name: bleachers
+
+                            Venue name: The New Orleans Jazz & Heritage Festival
+
+                            Venue location: New Orleans, LA
+
+                            Event date: 04/28/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                        Band name: bleachers
+
+                            Venue name: Charlotte Shout Fest - Romare Bearden Park
+
+                            Venue location: Charlotte, LA
+
+                            Event date: 05/11/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+Band name: bleachers
+
+Venue name: The New Orleans Jazz & Heritage Festival
+
+Venue location: New Orleans, LA
+
+Event date: 04/28/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+Band name: bleachers
+
+Venue name: Charlotte Shout Fest - Romare Bearden Park
+
+Venue location: Charlotte, LA
+
+Event date: 05/11/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+Band name: bleachers
+
+Venue name: The New Orleans Jazz & Heritage Festival
+
+Venue location: New Orleans, LA
+
+Event date: 04/28/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+Band name: bleachers
+
+Venue name: Charlotte Shout Fest - Romare Bearden Park
+
+Venue location: Charlotte, LA
+
+Event date: 05/11/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                Title: Thor: Ragnarok
+
+                Released: 2017
+
+                IMDB Rating: 7.9
+
+                Rotten Tomatos Rating: 92%
+
+                Country: USA
+
+                Language: English
+
+                Plot: Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.
+
+                Actors: Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Idris Elba
+                
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+Band name: imagine dragons
+
+Venue name: BottleRock
+
+Venue location: Napa, CA
+
+Event date: 05/24/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+Band name: imagine dragons
+
+Venue name: Visarno Arena
+
+Venue location: Florence, CA
+
+Event date: 06/02/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+Band name: imagine dragons
+
+Venue name: Pro Football Hall of Fame
+
+Venue location: Canton, CA
+
+Event date: 08/04/2019
+                            
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+            Artist: Imagine Dragons
+
+            Song Title: On Top Of The World
+
+            Preview: null
+
+            Album: Night Visions (Deluxe)
+            
+
+------------------------------------------------------------
+
+ 
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                Title: Thor: Ragnarok
+
+                Released: 2017
+
+                IMDB Rating: 7.9
+
+                Rotten Tomatos Rating: 92%
+
+                Country: USA
+
+                Language: English
+
+                Plot: Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.
+
+                Actors: Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Idris Elba
+                
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+            Artist: Ace of Base
+
+            Song Title: The Sign
+
+            Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f4b854ca658e461fbe29bbdbad98c852
+
+            Album: The Sign (US Album) [Remastered]
+            
+
+------------------------------------------------------------
+
+ 
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+                Title: Mr. Nobody
+
+                Released: 2009
+
+                IMDB Rating: 7.8
+
+                Rotten Tomatos Rating: 67%
+
+                Country: Belgium, Germany, Canada, France, USA, UK
+
+                Language: English, Mohawk
+
+                Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+                Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+                
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+
+
+            Artist: Imagine Dragons
+
+            Song Title: On Top Of The World
+
+            Preview: null
+
+            Album: Night Visions (Deluxe)
+            
+
+------------------------------------------------------------
+
+ 
 
 ------------------------------------------------------------
 
